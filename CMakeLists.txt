@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.30)
 project(leprac)
 
-add_executable(leprac main.cpp)
+file(GLOB_RECURSE SOURCES src/*.cpp src/*.h)
+add_executable(${PROJECT_NAME} ${SOURCES})
 
-target_link_libraries(leprac PRIVATE imgui)
+target_include_directories(leprac PRIVATE external)
