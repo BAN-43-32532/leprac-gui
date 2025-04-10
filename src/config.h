@@ -5,16 +5,15 @@
 namespace fs = std::filesystem;
 
 class ConfigManager {
-  public:
-    ConfigManager();
-    ~ConfigManager();
+ public:
+  ConfigManager();
+  ~ConfigManager();
 
-    bool loadConfig();
-  private:
+  bool loadConfig();
 
-
+ private:
+  fs::path config_path_{};
 };
 
 
-
-#endif //CONFIG_H
+#endif // CONFIG_H

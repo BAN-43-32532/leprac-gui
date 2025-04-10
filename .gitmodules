@@ -7,3 +7,6 @@
 [submodule "external/yaml-cpp"]
 	path = external/yaml-cpp
 	url = https://github.com/jbeder/yaml-cpp.git
+[submodule "external/libarchive"]
+	path = external/libarchive
+	url = https://github.com/libarchive/libarchive.git
