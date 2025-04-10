@@ -10,7 +10,6 @@ stage1:
 
 stage2:
   midboss:
-    - non 1
     - spell 1
   boss:
     - non 1
@@ -19,6 +18,7 @@ stage2:
     - spell 2
     - non 3
     - spell 3
+    - spell 4
 
 stage3:
   midboss:
@@ -35,15 +35,16 @@ stage3:
     - spell 5
 
 stage4:
+  midboss:
+    - non 1
+    - spell 1
   boss:
     - non 1
     - spell 1
-    - spell 2
     - non 2
+    - spell 2
     - spell 3
     - spell 4
-    - non 3
-    - spell 5
 
 stage5:
   midboss:
@@ -58,9 +59,11 @@ stage5:
     - spell 3
     - non 4
     - spell 4
-    - spell 5
 
 stage6:
+  midboss:
+    - non 1
+    - spell 1
   boss:
     - non 1
     - spell 1
@@ -68,8 +71,10 @@ stage6:
     - spell 2
     - non 3
     - spell 3
+    - non 4
     - spell 4
     - spell 5
+    - spell 6
 
 stage7:
   midboss:
@@ -95,11 +100,3 @@ stage7:
     - spell 8
     - spell 9
     - spell 10
-
-stage8:
-  boss:
-    - spell 1
-    - spell 2
-    - spell 3
-    - spell 4
-    - spell 5
