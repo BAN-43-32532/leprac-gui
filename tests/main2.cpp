@@ -172,7 +172,6 @@ int main(int, char **) {
 
         // 开始游戏按钮（后续可根据selected_game与路径启动游戏）
         if (ImGui::Button("Start Game")) {
-            // TODO: 根据 selected_game 和对应的游戏路径启动游戏
         }
 
         ImGui::End();
