@@ -23,3 +23,5 @@ A tool for practicing Len'en Shmups
 - [ ] Spell / Non-spell capture rate count & display
 - [ ] Spell practice replay saving & playing (arbitraty start, end, flashbomb gauge, etc.)
 - [ ] Tool-assisted replay watermark
+
+- [ ] BPoHC support
