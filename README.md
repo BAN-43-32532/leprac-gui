@@ -17,11 +17,12 @@ A tool for practicing Len'en Shmups
 - [ ] Full-screen mode
 
 ### Advanced Features
-- [ ] Special / Neta play (fps change, 50 set, etc.)
+- [ ] Special / Neta (meme) play (fps change, 50 set, , etc.)
 - [ ] Practice setting presets & memory
 - [ ] Music continuation & playback
 - [ ] Spell / Non-spell capture rate count & display
 - [ ] Spell practice replay saving & playing (arbitraty start, end, flashbomb gauge, etc.)
 - [ ] Tool-assisted replay watermark
-- [ ] Realtime hitbox display
+- [ ] Realtime hitbox / game data display
+- [ ] Better replay system (name, more-than-20 files, etc.)
 - [ ] BPoHC support
