@@ -18,6 +18,7 @@ A tool for practicing Len'en Shmups
 
 ### Advanced Features
 - [ ] Special / Neta (meme) play (fps change, 50 set, , etc.)
+- [ ] An [AutoHotkey](https://www.autohotkey.com/) resolution for 8-direction numpad control
 - [ ] Practice setting presets & memory
 - [ ] Music continuation & playback
 - [ ] Spell / Non-spell capture rate count & display
