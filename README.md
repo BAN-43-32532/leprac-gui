@@ -1,4 +1,4 @@
-# leprac-gui
+# leprac
 
 A tool for practicing Len'en Shmups
 
